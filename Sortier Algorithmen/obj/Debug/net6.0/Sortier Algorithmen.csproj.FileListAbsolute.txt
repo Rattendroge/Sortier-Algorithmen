@@ -1,0 +1,14 @@
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\bin\Debug\net6.0\Sortier Algorithmen.exe
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\bin\Debug\net6.0\Sortier Algorithmen.deps.json
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\bin\Debug\net6.0\Sortier Algorithmen.runtimeconfig.json
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\bin\Debug\net6.0\Sortier Algorithmen.dll
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\bin\Debug\net6.0\Sortier Algorithmen.pdb
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.AssemblyInfoInputs.cache
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.AssemblyInfo.cs
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.csproj.CoreCompileInputs.cache
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.dll
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\refint\Sortier Algorithmen.dll
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.pdb
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\Sortier Algorithmen.genruntimeconfig.cache
+C:\Users\Neko\Desktop\Arbeiten\Uni\Game Programming Basics\Sortier Algorithmen\Sortier Algorithmen\obj\Debug\net6.0\ref\Sortier Algorithmen.dll
